@@ -1,4 +1,4 @@
-1nfluencersmarketing
+1nfluencersmarketing Aswers
 
 The javascript data are five and are  the basic or primitive types of data.
 These data types are strings, boolean, numbers, null and undefined.
